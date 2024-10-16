@@ -116,6 +116,7 @@ predict(w1,w2,test)
 ```
 
 <H3>Output:</H3>
+
 ![Output1](https://github.com/user-attachments/assets/0d50b1b6-4d92-4279-a7e9-3b7ea0132837)
 
 <H3> Result:</H3>
